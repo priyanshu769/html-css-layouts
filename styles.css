@@ -1,0 +1,12 @@
+.all-layouts {
+    list-style-type: none;
+}
+.layout-link {
+    color: #ffffff;
+    background-color: #000000;
+    width: fit-content;
+    padding: 1rem;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
